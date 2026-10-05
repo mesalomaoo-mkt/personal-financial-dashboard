@@ -60,10 +60,6 @@ This Power BI dashboard was developed to monitor personal financial performance,
  
 ✅ Dashboard Design
  
-## Dashboard Preview
- 
-(Add dashboard image below)
- 
 ## Author
  
 Maria Eduarda Salomão
