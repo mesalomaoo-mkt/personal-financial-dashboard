@@ -1,4 +1,4 @@
-# 💰 Power BI Personal Finance Dashboard
+# 💰 Power BI Personal Financial Dashboard
  
 ## Overview
  
